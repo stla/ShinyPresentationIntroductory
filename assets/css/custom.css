@@ -1,0 +1,20 @@
+
+pre code {
+  border: 2px solid brown;
+}
+
+/* line 373, ../scss/default.scss */
+pre {
+  padding: 0px 0 10px 60px;
+}
+code {
+font-size: 100%;
+color: darkRed;
+background-color: #FCDFFF;
+}
+
+/* line 98, ../scss/default.scss */
+/* padding slide title*/
+slides > slide {
+  padding: 1px 60px;
+}
