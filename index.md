@@ -574,7 +574,7 @@ system.time(fib(26))
 
 ```
 ##    user  system elapsed 
-##    3.31    0.00    3.31
+##    3.39    0.00    3.40
 ```
 
 
