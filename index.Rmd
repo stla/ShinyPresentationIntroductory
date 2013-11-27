@@ -420,7 +420,7 @@ codechunk(
 size="80%")
 ```
 
-- *Here the content of `input$gobutton` has no importance*: <u>the important thing is to generate a value that changes at each press</u>; actually `input$gobutton` initially is 0 and then is incremented at each press 
+- *Here the content of `input$gobutton` has no importance*: <u>its role is to generate a value that changes at each press</u>; actually `input$gobutton` initially is 0 and is incremented at each press 
 
 - <u>**Exercise**</u>: modify the app in order that the plot first time appears only once the button has been pressed (see result in next slide)
 
